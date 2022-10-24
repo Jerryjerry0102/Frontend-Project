@@ -32,7 +32,7 @@
   * 
   
 &nbsp;
-## 시현영상
+## :movie_camera: 시현영상
 
 https://user-images.githubusercontent.com/110958704/197582206-de6c4904-7943-4c0e-bc5e-7eff90f61e78.mov
 
