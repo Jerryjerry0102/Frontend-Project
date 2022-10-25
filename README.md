@@ -19,22 +19,22 @@
   
 #### 박재희
   * navbar, footer, floating icon
-  * 로그인 페이지
-  * tools, foods 페이지
+  * login 페이지
+  * tools 페이지
   * 실시간 예약 페이지
   
 #### 옥다애
-  * 메인페이지
+  * main 페이지
   * map 페이지
   
 #### 윤유나
   * 날씨 api
-  * 
+  * foods 페이지
   
 &nbsp;
 ## :movie_camera: 시현영상
 
-https://user-images.githubusercontent.com/110958704/197582206-de6c4904-7943-4c0e-bc5e-7eff90f61e78.mov
+https://user-images.githubusercontent.com/110958704/197716726-e1e32b1e-0cfa-4f15-8a4d-3bf77d382df6.mov
 
 https://user-images.githubusercontent.com/110958704/197581197-73d01e39-8cdd-4ebe-ba0a-a02ed8d64630.mov
 
