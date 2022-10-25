@@ -8,49 +8,46 @@ const port = 8000;
 app.get("/", (req, res) => {
   res.render("mmdaae", {});
 });
-app.get('/tools',(req, res) => {
-    res.render('tools',{})
+app.get("/tools", (req, res) => {
+  res.render("tools", {});
 });
 
-app.get('/navbar_test', (req, res) =>{
+app.get("/navbar_test", (req, res) => {
   res.render("navbar_test", {});
-})
-
-app.get('/Information',(req, res) => {
-    res.render('Information',{});
 });
 
-app.get('/mdaae',(req, res) => {
-    res.render('mdaae',{});
+app.get("/Information", (req, res) => {
+  res.render("Information", {});
 });
 
-app.get('/mmdaae',(req, res) => {
-  res.render('mmdaae',{});
+app.get("/mdaae", (req, res) => {
+  res.render("mdaae", {});
+});
+
+app.get("/mmdaae", (req, res) => {
+  res.render("mmdaae", {});
 });
 
 app.get("/food_new", (req, res) => {
-  res.render("food_new", {});
+  res.render("food_new1", {});
 });
 
-app.get('/login', (req, res) => {
-   res.render("login", {});
+app.get("/login", (req, res) => {
+  res.render("login", {});
 });
 
-
-app.get('/member', (req, res) => {
+app.get("/member", (req, res) => {
   res.render("member", {});
 });
 
-app.get('/reservation', (req,res) => {
+app.get("/reservation", (req, res) => {
   res.render("reservation", {});
-})
-
-app.get('/reservation_new', (req,res) => {
-  res.render("reservation_new", {});
-})
-
-
-app.listen(port, ()=>{
-    console.log("server open: ", port);
 });
 
+app.get("/reservation_new", (req, res) => {
+  res.render("reservation_new", {});
+});
+
+app.listen(port, () => {
+  console.log("server open: ", port);
+});
