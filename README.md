@@ -32,7 +32,7 @@
   * foods 페이지
   
 &nbsp;
-## :movie_camera: 시현영상
+## :movie_camera: 시연영상
 
 https://user-images.githubusercontent.com/110958704/197716726-e1e32b1e-0cfa-4f15-8a4d-3bf77d382df6.mov
 
